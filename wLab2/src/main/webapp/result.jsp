@@ -18,7 +18,7 @@
 <body>
 <header>
     <h1> Веб-программирование, Лабораторная работа №2, Вариант - 409328 </h1>
-    <h1> Альметов Тимур Айдарович </h1>
+    <h1> Альметов Тимур Айдарович, P3207 </h1>
 </header>
    <div class="flex-container" style="height: 200px;margin:175px">
        <div class="item">
